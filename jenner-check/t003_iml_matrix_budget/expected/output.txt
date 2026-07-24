@@ -1,0 +1,55 @@
+Groceries
+Utilities
+    Rent
+Car Expenses
+Fun Money
+Personal Expenses
+      96      78      82      93
+      61      77      62      68
+     300     300     300     300
+      25      27      98      18
+      55      34      16      53
+     110      85      96     118
+     900     850    1050     950
+
+Groceries
+Utilities
+    Rent
+Car Expenses
+Fun Money
+Personal Expenses
+      96      78      82      93
+      61      77      62      68
+     300     300     300     300
+      25      27      98      18
+      55      34      16      53
+     110      85      96     118
+     900     850    1050     950
+
+Total Expenses for Each Week
+ $647.00 $601.00 $654.00 $650.00
+
+Total Expenses for Each Item
+ $349.00
+ $268.00
+$1,200.00
+ $168.00
+ $158.00
+ $409.00
+
+Percentage of income spent on each item, by week
+ 10.67%  9.18%  7.81%  9.79%
+  6.78%  9.06%  5.90%  7.16%
+ 33.33% 35.29% 28.57% 31.58%
+  2.78%  3.18%  9.33%  1.89%
+  6.11%  4.00%  1.52%  5.58%
+ 12.22% 10.00%  9.14% 12.42%
+
+Each Item as a Percentage of Monthly Income
+  9.31%
+  7.15%
+ 32.00%
+  4.48%
+  4.21%
+ 10.91%
+

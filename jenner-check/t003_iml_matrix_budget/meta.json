@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_iml_matrix_budget",
+  "source_file": "Code/SP4R07d01.sas",
+  "source_blob_sha": "20a0815cbf50fbac8fd5a648455d8dfb3b49c9f8",
+  "source_commit": "5127cba62edfdc500a36be7994314cbff8654730",
+  "notes": "Verbatim SP4R07d01: PROC IML budget example. Builds a 6x4 amounts matrix and a weekly-income vector, then uses subscript reduction operators ([+,] and [,+]) for column and row totals and element-wise division for percentages, printed with COLNAME/ROWNAME and dollar/percent formats. Fully self-contained; no edits."
+}

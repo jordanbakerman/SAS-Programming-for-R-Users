@@ -1,0 +1,29 @@
+NOTE: Option OBS changed to 100.
+NOTE: DATA random
+
+
+NOTE: Wrote random (100 rows, 2 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC MEANS
+NOTE: PROC MEANS statement used.
+MPRINT(MYMAC):   data random (drop=i);
+MPRINT(MYMAC):   do i=1 to 100;
+MPRINT(MYMAC):   y=rand("Normal",100,10);
+MPRINT(MYMAC):   x+1;
+MPRINT(MYMAC):   output;
+MPRINT(MYMAC):   end;
+MPRINT(MYMAC):   run;
+MPRINT(MYMAC):   proc means data=random mean std;
+MPRINT(MYMAC):   var y;
+MPRINT(MYMAC):   run;
+NOTE: DATA random
+
+
+NOTE: Wrote random (100 rows, 2 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC MEANS
+NOTE: PROC MEANS statement used.

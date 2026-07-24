@@ -1,0 +1,13 @@
+
+  Obs  name   bday
+-----  ----  -----
+    1  Jill      0
+    2  Jack  10358
+    3  Joe    5712
+
+  Obs  First Name    Birthday
+-----  ----------  ----------
+    1  Jill        01/01/1960
+    2  Jack        05/11/1988
+    3  Joe         08/22/1975
+

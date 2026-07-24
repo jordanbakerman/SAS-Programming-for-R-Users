@@ -1,0 +1,7 @@
+{
+  "bundle": "t004_iml_svd_regression",
+  "source_file": "Code/SP4R07d02.sas",
+  "source_blob_sha": "bc7eae244f14858861c9d8bbc7b10e13ee0732bd",
+  "source_commit": "5127cba62edfdc500a36be7994314cbff8654730",
+  "notes": "Verbatim SP4R07d02: PROC IML least-squares by hand. Uses CALL RANDSEED/RANDGEN to simulate a linear model, forms X'X, factors it with CALL SVD, and reconstructs the coefficient estimates via the pseudo-inverse. Deterministic via RANDSEED(27606); fully self-contained; no edits."
+}

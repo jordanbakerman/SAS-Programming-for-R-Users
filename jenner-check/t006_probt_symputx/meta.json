@@ -1,0 +1,7 @@
+{
+  "bundle": "t006_probt_symputx",
+  "source_file": "Code/SP4R05s03.sas",
+  "source_blob_sha": "3619edf0a363c29076535a1cf2a8583ece4d339f",
+  "source_commit": "5127cba62edfdc500a36be7994314cbff8654730",
+  "notes": "Part A of SP4R05s03, the self-contained portion: a two-tailed t-test significance level computed with PROBT in a DATA _NULL_ step, delivered to a macro variable with CALL SYMPUTX and echoed to the log with %PUT. The remaining parts of the solution read course data and are omitted; this part is unchanged."
+}
