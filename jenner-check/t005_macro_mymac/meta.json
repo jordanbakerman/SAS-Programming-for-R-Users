@@ -1,0 +1,7 @@
+{
+  "bundle": "t005_macro_mymac",
+  "source_file": "Code/SP4R05d05.sas",
+  "source_blob_sha": "ed936808930e626e3e5e58e93688aea599a6234e",
+  "source_commit": "5127cba62edfdc500a36be7994314cbff8654730",
+  "notes": "The %mymac macro from SP4R05d05 (Parts A-D) verbatim: a distribution simulator with %if/%do argument validation and a %param2-empty vs. two-parameter branch. Two callers written for the bundle exercise the one-parameter branch (Poisson) and the two-parameter branch (Normal) with STATS=YES so each emits PROC MEANS; MPRINT on for the second. Self-contained."
+}

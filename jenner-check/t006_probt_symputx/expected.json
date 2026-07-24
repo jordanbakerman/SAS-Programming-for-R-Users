@@ -1,0 +1,18 @@
+{
+  "_captured_at": "2026-07-24T04:39:04.910470Z",
+  "_captured_run_id": "r_a1a9b8a1378c4e24832f4cc285306f70",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "The significance level for the two-tailed t test is 0.030099247897461323",
+    "NOTE: DATA _NULL_"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

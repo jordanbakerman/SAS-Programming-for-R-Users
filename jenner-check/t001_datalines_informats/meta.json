@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_datalines_informats",
+  "source_file": "Code/SP4R02d03.sas",
+  "source_blob_sha": "7caf29b77f931cf2836bf7cdd4b57f6d832d4a27",
+  "source_commit": "5127cba62edfdc500a36be7994314cbff8654730",
+  "notes": "Verbatim SP4R02d03: DATA step with list input, the :mmddyy8. informat and mmddyy10. format, plus LABEL, printed twice with PROC PRINT to contrast raw SAS date values against the formatted dates. Self-contained (inline DATALINES, WORK library); no edits."
+}

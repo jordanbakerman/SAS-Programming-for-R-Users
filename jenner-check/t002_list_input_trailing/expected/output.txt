@@ -1,0 +1,17 @@
+
+  Obs  First_Name  Last_Name  age  height
+-----  ----------  ---------  ---  ------
+    1  Jordan      Bakerman    27      68
+    2  Bruce       Wayne       35      70
+    3  Walter      White       51      70
+    4  Henry       Hill        65      66
+    5  JeanClaude  VanDamme    55      69
+
+  Obs  First_Name  Last_Name  age  height
+-----  ----------  ---------  ---  ------
+    1  Jordan      Bakerman    27      68
+    2  Bruce       Wayne       35      70
+    3  Walter      White       51      70
+    4  Henry       Hill        65      66
+    5  JeanClaude  VanDamme    55      69
+

@@ -1,0 +1,19 @@
+{
+  "_captured_at": "2026-07-24T04:39:02.397279Z",
+  "_captured_run_id": "r_d9eaf9b4f91540618a941214cdef44dd",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Read 3 rows from DATALINES.",
+    "NOTE: Wrote employees (3 rows, 2 columns).",
+    "NOTE: PROC PRINT completed: 3 observations printed, 2 variables"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

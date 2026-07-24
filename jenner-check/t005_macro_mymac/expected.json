@@ -1,0 +1,19 @@
+{
+  "_captured_at": "2026-07-24T04:39:04.428103Z",
+  "_captured_run_id": "r_470f94d79a064d0bacc71ece9a157974",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote random (100 rows, 2 columns).",
+    "NOTE: PROC MEANS statement used.",
+    "MPRINT(MYMAC):   proc means data=random mean std;"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

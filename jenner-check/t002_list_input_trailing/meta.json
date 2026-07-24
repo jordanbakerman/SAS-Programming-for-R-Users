@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_list_input_trailing",
+  "source_file": "Code/SP4R02d01.sas",
+  "source_blob_sha": "e669be7ca2c5da4973dbddaed7e147d0b6d8b4ae",
+  "source_commit": "5127cba62edfdc500a36be7994314cbff8654730",
+  "notes": "SP4R02d01 with the course SP4R library replaced by WORK so the script is self-contained. Contrasts standard list input (Part A) with the double trailing @@ line-hold that packs multiple records per data line (Part B); both build the same 5-row data set. Inline DATALINES; only the library name was changed."
+}
